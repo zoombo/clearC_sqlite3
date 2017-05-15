@@ -1,2 +1,2 @@
 # clearC_sqlite3
-Просто работа с Sqlite3
+Немного работы с Sqlite3
